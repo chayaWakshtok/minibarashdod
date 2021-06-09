@@ -1,0 +1,53 @@
+[
+    {
+        "id":"1",
+        "name":"מיני בר",
+        "describe":"מושלם",
+        "idProvied":"1",
+        "priceToProvide":"100",
+        "percentageToProvide":"5",
+        "priceToCustomer":"150",
+        "percentageToCustomer":"3",
+        "details":"false"
+
+    },
+    {
+        "id":"2",
+        "name":"פילטרים",
+        "describe":"יפה",
+        "idProvied":"2",
+        "priceToProvide":"50",
+        "percentageToProvide":"2",
+        "priceToCustomer":"70",
+        "percentageToCustomer":"8",
+        "details":"false"
+
+
+    },
+    {
+        "id":"3",
+        "name":"מטהרי מים",
+        "describe":"נהדר",
+        "idProvied":"1",
+        "priceToProvide":"128",
+        "percentageToProvide":"1",
+        "priceToCustomer":"200",
+        "percentageToCustomer":"5",
+        "details":"false"
+
+
+    },
+    {
+        "id":"4",
+        "name":"קלוצמח",
+        "describe":"נעדר כל הדר",
+        "idProvied":"2",
+        "priceToProvide":"80",
+        "percentageToProvide":"4",
+        "priceToCustomer":"110",
+        "percentageToCustomer":"6",
+        "details":"false"
+
+
+    }
+]
